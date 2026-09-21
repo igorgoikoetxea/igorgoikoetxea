@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Nombre Apellidos 👋
 
-<!--
-**igorgoikoetxea/igorgoikoetxea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante del **Curso de Especialización en Ciberseguridad** en Zubiri Manteo. 
+Apasionado de la seguridad informática, enfocado principalmente en Análisis Forense.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Sistemas:** `Linux (Kali/Parrot)` | `Windows Server` | `Active Directory`
+- **Scripting:** `Python` | `Bash` | `PowerShell`
+- **Herramientas:** `Nmap` | `Wireshark` | `Burp Suite` | `Metasploit`
+
+
+---
+
+### 📫 Contacto
+
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **Email:** tu_correo@zubirimanteo.com
