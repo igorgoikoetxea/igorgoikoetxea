@@ -1,4 +1,4 @@
-# ¡Hola! Soy Nombre Apellidos 👋
+# Kaixo! Soy Igor Goikoetxea 👋
 
 Estudiante del **Curso de Especialización en Ciberseguridad** en Zubiri Manteo. 
 Apasionado de la seguridad informática, enfocado principalmente en Análisis Forense.
